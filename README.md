@@ -1,2 +1,2 @@
-# DCS-Files
-Put here your DCS files. Please place them under the correct section.
+# Files
+Common DCS Files like configuration settings, profiles and documentations.
